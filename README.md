@@ -1,5 +1,5 @@
 # InverseHullWeb
-Create Inverse Hull Webs of thermodynamic materials systems. Please cite the following paper:
+Create Inverse Hull Webs of materials systems. Please cite the following paper:
 
 Evans, D., Chen, J., Bokas, G. _et al._ Visualizing temperature-dependent phase stability in high entropy alloys. _npj Comput Mater_ __7__, 151 (2021). https://doi.org/10.1038/s41524-021-00626-1
 
